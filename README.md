@@ -38,12 +38,12 @@ de seguimiento, donde cada perfil de paciente tiene 13 características clínica
    ```bash
    pip install datasets
 
- 3. **Ejecutar el Juego:**
-   Una vez que las dependencias estén instaladas, ejecuta el script principal laberinto.py para iniciar el juego.
+ 3. **Ejecución:**
+   Una vez que las dependencias estén instaladas, ejecuta el script principal fallo_cardiaco.py para iniciar.
    Puedes hacerlo con el siguiente comando:
 
       ```bash
-      python laberinto.py
+      python fallo_cardiaco.py
 
    ## Requisitos ##
    - Pitón 3.x
@@ -54,7 +54,7 @@ de seguimiento, donde cada perfil de paciente tiene 13 características clínica
 
    - **laberinto.py:** Contiene el código principal del juego.
    - **carpeta_mapas/:** Carpeta que contiene archivos de mapas de laberintos.
-   - **README.md:** Este archivo que proporciona información sobre el juego y cómo usarlo.
+   - **README.md:** Este archivo que proporciona información sobre el proyecto.
       
    ## Documento Introductorio ##
    
