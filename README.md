@@ -52,8 +52,7 @@ de seguimiento, donde cada perfil de paciente tiene 13 características clínica
    ## Estructura del Proyecto ##
    El proyecto está organizado de la siguiente manera:
 
-   - **laberinto.py:** Contiene el código principal del juego.
-   - **carpeta_mapas/:** Carpeta que contiene archivos de mapas de laberintos.
+
    - **README.md:** Este archivo que proporciona información sobre el proyecto.
       
    ## Documento Introductorio ##
