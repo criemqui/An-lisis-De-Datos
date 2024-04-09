@@ -1,9 +1,7 @@
-# Análisis De Datos
-Este conjunto de datos contiene los registros médicos de 299 pacientes que padecían insuficiencia cardíaca, recopilados durante su período 
-de seguimiento, donde cada perfil de paciente tiene 13 características clínicas.
-
-
 # ---Fallo Cárdiaco ---
+![Texto alternativo](https://fundaciondelcorazon.com/images/stories/notas-de-prensa/ic_2019.jpg)
+
+##
    El proyecto de este curso consiste en analizar el conjunto de datos introducido en esta sección, procesarlo, 
    limpiarlo y finalmente ajustar modelos de machine learning para realizar predicciones sobre estos datos. 
 
@@ -57,8 +55,9 @@ de seguimiento, donde cada perfil de paciente tiene 13 características clínica
       
    ## Documento Introductorio ##
    
-   Documento introductorio
-  El aprendizaje automático puede predecir la supervivencia de pacientes con insuficiencia cardíaca basándose únicamente en la creatinina sérica y la fracción de eyección
+  El aprendizaje automático puede predecir la supervivencia de pacientes con insuficiencia cardíaca basándose únicamente en la creatinina sérica y la fracción de eyección.
 
    ## Notas adicionales ##
    
+   Este conjunto de datos contiene los registros médicos de 299 pacientes que padecían insuficiencia cardíaca, recopilados durante su período 
+   de seguimiento, donde cada perfil de paciente tiene 13 características clínicas.
