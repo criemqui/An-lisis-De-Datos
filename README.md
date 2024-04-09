@@ -61,3 +61,5 @@
    
    Este conjunto de datos contiene los registros médicos de 299 pacientes que padecían insuficiencia cardíaca, recopilados durante su período 
    de seguimiento, donde cada perfil de paciente tiene 13 características clínicas.
+
+   ![Fallo Cardiáco](https://fotografias.larazon.es/clipping/cmsimages01/2022/04/07/A12FE4A2-11B9-4977-A96F-E0B68E9DAFA2/60.jpg?crop=7000,3938,x0,y188&width=640&height=360&optimize=medium&format=webply)
